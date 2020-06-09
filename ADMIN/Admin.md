@@ -51,10 +51,7 @@ Thanks for the great contributions from the DCS community, and to highlight a fe
 - MIST (Speed&Grimes) <br>
 - FlightControl for MOOSE: https://flightcontrol-master.github.io/MOOSE_DOCS/ <br>
 - CTLD <br>
-- funkyfranky for the Range Script <br>
-- 476th Noodle and Stuka for the 476th range targets: http://www.476vfightergroup.com/downloads.php?do=file&id=287 <br>
 - DArt for LotATC: https://www.lotatc.com/ <br>
-- Tacno for UniversRadio: http://tacnoworld.fr/universradio/ <br>
 - Upaut for various Mods: https://forums.eagle.ru/showthread.php?t=124251 <br>
 - Ranger79 for various mods: https://forums.eagle.ru/showthread.php?t=121620 <br>
 - Grimes for his support to the DCS community, and specificly his work on the F/A-18C Hornet Desert aggressor skin (VFC-13 livery), which the 494th have been allowed to modify for our use. <br>
@@ -65,4 +62,4 @@ Thanks for the great contributions from the DCS community, and to highlight a fe
 <br>
 <br>
 ## Back
-[Back to frontpage](https://132nd-vwing.github.io/OPAR-Brief/)
+[Back to frontpage](https://132nd-vwing.github.io/OPBH-Brief/)

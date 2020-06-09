@@ -6,7 +6,7 @@ This page gives necessary information for participation on 132nd Virtual Wing's 
 Please signup on 132nd Virtual Wing's event page (user on the 132nd website is required): <br>
 [132nd Events](http://www.132virtualwing.org/index.php/page/events)   <br>
 <br>
-<br>Ok this is pretty cool!
+<br>The event uses DCS Open Beta and SRS.
 <br>
 <br>
 **NOTE 1** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
@@ -21,7 +21,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Admin
-[Admin info](/OPBH-Brief/ADMIN/Admin.html) | [Recordings](/OPBH-Brief/ADMIN/Recordings.html) | 
+[Admin info](/OPBH-Brief/ADMIN/Admin.html) |
 
 
 
