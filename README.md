@@ -7,7 +7,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 [132nd Events](http://www.132virtualwing.org/index.php/page/events)   <br>
 <br>
 <br>The event uses DCS Open Beta and SRS.
-<br>
+<br> 
 <br>
 **NOTE 1** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
 <br>
