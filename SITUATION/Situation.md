@@ -16,16 +16,15 @@ Saudi Arabia and the UAE, due to its close connections with the United States an
 stationed in the region. Tensions continued to mount between both sides as Russia provided Iran with new Su-27 aircraft.  
 <br>
 <br>
-Late march tension in the South China sea was also increasing, with several clashes between american and chinese warships. 
-<br>
-<br>
 On May 1st an Iranian SA-15 shot down a Boeing 737 departing Tehran International Airport. Onboard were the last American diplomats 
 leaving the country on President Obama’s orders. 142 American lives were lost. The Iranian government claimed that it was a mistake 
 but the tipping point to war had already been reached. 
 <br>
 <br>
 CJTF-101 has been created with the mission of dismantling the Iranian military. 
-
+<br>
+<br>
+<br>
 
 ## Regional situation
 Iran and Russia have strong ties. Russia may supply Iran with ground units and aircraft to increase tensions and coalition losses. 
