@@ -37,7 +37,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Mission Information 
-[Briefing](/MISSION INFORMATION/Briefing.md)| [Presets](/MISSION INFORMATION/Presets.md)  | [SPINS](/MISSION INFORMATION/SPINS.md) | [Navigation](/MISSION INFORMATION/Navigation.md)
+[Briefing](/MISSION INFORMATION/Briefing.md)| [Presets](/MISSION INFORMATION/Presets.md)  | [CombatFlite Files](/MISSION INFORMATION/CombatFlite Files.md)
 
 
 
