@@ -7,13 +7,17 @@
 <br>
 <br>
 ## Radio plugin - Simple Radio
-132bd events is conducted using Simple Radio (SRS
+132bd events is conducted using Simple Radio (SRS)
 [SRS thread on ED forums](https://forums.eagle.ru/showthread.php?t=169387)
 <br>
 <br>
 <br>
 ## Mods/Skins
 Everyone attending this mission need to use OvGME in order to install the necessary Skins and Mods. <br>
+<br>
+The required mods for this campaign are:<br>
+1: Civil Aircraft Mod<br>
+<br>
 Please refer to the 132nd Skin and Mod Install QuickstartGuide: <br>
 [132nd Skin and Mod Install](https://www.dropbox.com/s/jtftoqwto3tkbbp/DCS%202.5%20Mod%20Install_QuickCard.pdf?raw=1)
 
