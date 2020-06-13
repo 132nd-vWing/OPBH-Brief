@@ -5,7 +5,8 @@
 
 The following presets are programmed into the aircraft:
 
-### [A-10C: v1.0](https://www.dropbox.com/s/8yaiyuotl5geggk/OPUF%20A-10C%20presets%20v1.0.pdf?dl=0)
+### A-10C: 
+![A-10C](/OPBH-Brief/IMAGES/A-10.PNG)
 
 
 ### [MI-8 v1.0](https://www.dropbox.com/s/dcxkjq9yuga8bj3/OPUF%20MI-8%20presets%20v1.0.pdf?dl=0)
