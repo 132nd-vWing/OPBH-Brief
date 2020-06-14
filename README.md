@@ -36,7 +36,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Munitions Aquisition
-[Situation](/OPBH-Brief/MUNITIONS/munitions.html) |
+[Initial Aquisition](/OPBH-Brief/MUNITIONS/munitions.html) |
 
 
 <br>
