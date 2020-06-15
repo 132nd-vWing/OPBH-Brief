@@ -11,4 +11,6 @@
 ### [696th Initial Loadout Form](/OPBH-Brief/FILES/OPBH 696 Initial LO.xlsx)
 
 
+## Back
+[Back to frontpage](https://132nd-vwing.github.io/OPBH-Brief/)
 
