@@ -9,11 +9,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>The event uses DCS Open Beta and SRS.
 <br> 
 <br>
-**NOTE 1** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
-<br>
-<br>
-<br>
-**NOTE 2** You will need to manually refresh webpages to get changes as the pages are updated. Until we resolve this issue, we recommend everyone to refresh the page when you enter it to make sure you have the latest information availeble.
+**NOTE 1** You will need to manually refresh webpages to get changes as the pages are updated. Until we resolve this issue, we recommend everyone to refresh the page when you enter it to make sure you have the latest information availeble.
 <br>
 <br>
 <br>
