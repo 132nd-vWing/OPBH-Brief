@@ -27,19 +27,25 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 ## Situation
 [Situation](/OPBH-Brief/SITUATION/Situation.html) |
 
+<br>
+<br>
+<br>
+## Rules
+[OPBH Rules](/OPBH-Brief/SITUATION/Situation.html) |
+
 
 <br>
 <br>
 <br>
 ## Munitions
-[Initial Aquisition](/OPBH-Brief/MUNITIONS/munitions.html) |[Current Supply](/OPBH-Brief/MUNITIONS/CurrentSupply.html)
+[Initial Aquisition](/OPBH-Brief/MUNITIONS/munitions.html) |[Current Supply](/OPBH-Brief/MUNITIONS/CurrentSupply.html)|
 
 
 <br>
 <br>
 <br>
 ## Mission Information 
-[Briefing](/MISSION INFORMATION/Briefing.md)| [Presets](/MISSION INFORMATION/Presets.md)  | [CombatFlite Files](/MISSION INFORMATION/CombatFlite Files.md)
+[Briefing](/MISSION INFORMATION/Briefing.md)| [Presets](/MISSION INFORMATION/Presets.md)  | [CombatFlite Files](/MISSION INFORMATION/CombatFlite Files.md)|
 
 
 
