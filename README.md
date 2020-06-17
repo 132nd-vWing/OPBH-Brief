@@ -31,7 +31,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Rules
-[OPBH Rules](/OPBH-Brief/SITUATION/Situation.html) |
+[OPBH Rules](/OPBH-Brief/RULES/Rules.html) |
 
 
 <br>
