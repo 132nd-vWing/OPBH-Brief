@@ -1,6 +1,6 @@
 ## Weather Report
 
-CJTF is location UTC+4
+CJTF is located UTC+4
 
 ### TAF 
 CJTF101 021655Z 0218/0316 31015KT 12000 NSC<br>
