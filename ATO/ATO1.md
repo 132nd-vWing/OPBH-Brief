@@ -19,7 +19,12 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 * Priority 6: Destroy the Logistics Center at Bandar E Jask
 <br>
 <br>
-
+## KILLBOX COMS
+KILLBOX WEST: 227.500 (YELLOW 1)
+KILLBOX CENTER: 235.000 (WHITE 11)
+KILLBOX EAST: 238.000 (PINK 11)
+<br>
+<br>
 ## TASKING 
 ### INQUISITOR 1
 **MISSION:**  SWEEP / SECONDARY MISSION: CAP
@@ -38,7 +43,7 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 
 
 ### BANTHA 2
-**MISSION:** SEAD / SECONDARY MISSION: AI
+**MISSION:** DEAD / SECONDARY MISSION: AI
 <br>
 **CONTROLLER:** A-G Controller Overlord 235.250 (GREY 6)
 <br>
@@ -46,9 +51,11 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 <br>
 **VUL:** 1855Z-2015Z
 <br>
-**FREQUENCY:**  PRI: 247.000 (GOLD 1) , SEC: 140.000 (MAROON 11) , MIDS 20-29
+**FREQUENCY:**  PRI: 247.000 (GOLD 1) , SEC: 140.000 (MAROON 11) , MIDS 20-29 , KILLBOX EAST: 238.000 (PINK 11)
 <br>
-**REMARKS:** Destroy/Disable SA-6 then perform AI in killbox East
+**TARGET:**  SA-6
+<br>
+**REMARKS:** Once primary mission complete and if munitions remain, perform AR in killbox East
 <br>
 <br>
 
@@ -62,9 +69,11 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 <br>
 **VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  PRI: 227.750 (OCHRE 1) , SEC: 137.000 (BROWN 11) , MIDS 30-39
+**FREQUENCY:**  PRI: 227.750 (OCHRE 1) , SEC: 137.000 (BROWN 11) , MIDS 30-39 , KILLBOX EAST: 238.000 (PINK 11)
 <br>
-**REMARKS:** Destory Military HQ, Destroy Logistics Center if munitions remain AR in killbox East
+**TARGETS:**  MILITARY HQ, LOGISTICS CENTER
+<br>
+**REMARKS:** Once primary mission complete and if munitions remain, perform AR in killbox East
 <br>
 <br>
 
@@ -96,111 +105,78 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 <br>
 **FREQUENCY:**  PRI: 233.750 (AQUA 8) , SEC: 121.750 (Yellow 11)
 <br>
-**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
-<br>
 **REMARKS:** Escort Rouge 3 then establish CAP at position BRAVO, Once the SA-6 is destroyed/disabled establish CAP at position DELTA
 <br>
 <br>
 
 
 ### WOOKIE 6
-**MISSION:** SEAD/DEAD. ALPHA PACKAGE
+**MISSION:** AI / SECONDARY MISSION: AR
 <br>
-**CONTROLLER:** MAGIC 
+**CONTROLLER:** A-G Controller  Overlord 235.250 (GREY 6)
 <br>
-**CONTACT POINT (CP):** DONALDDUCK
+**CONTACT POINT (CP):** GARY at 1850z
 <br>
-**VUL Gametime:** N/A
+**VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  AWACS+Package ALPHA: A-A 2 (IAW presets)
+**FREQUENCY:**  PRI: 31.500 (CHERRY 2) , SEC: 139.750 (AQUA 10) , KILLBOX CENTER: 235.000 (WHITE 11)
 <br>
-**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
+**TARGET:** Silkworm Battery 
 <br>
-**REMARKS:** Part of ALPHA Package.
+**REMARKS:** Once primary mission complete and if munitions remain, perform AR in killbox Center and provide ilumination for MAUL 8
 <br>
-<br>
-
-
-### HAWK
-**MISSION:** SEAD/DEAD. ALPHA PACKAGE
-<br>
-**CONTROLLER:** MAGIC 
-<br>
-**CONTACT POINT (CP):** DONALDDUCK
-<br>
-**VUL Gametime:** N/A
-<br>
-**FREQUENCY:**  AWACS+Package ALPHA: A-A 2 (IAW presets)
-<br>
-**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
-<br>
-**REMARKS:** Part of ALPHA Package.
 <br>
 
 
-### RAVEN
-**MISSION:** SWEEP. ALPHA PACKAGE
+### JAWA 7
+**MISSION:** AR
 <br>
-**CONTROLLER:** MAGIC 
+**CONTROLLER:** A-G Controller  Overlord 235.250 (GREY 6)
 <br>
-**CONTACT POINT (CP):** DONALDDUCK
+**CONTACT POINT (CP):** GARY at 1850z
 <br>
-**VUL Gametime:** N/A
+**VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  AWACS+internal : A-A 1 | AWACS+Package ALPHA: A-A 2 (IAW presets)
+**FREQUENCY:**  PRI: 35.750 (CHERRY 4) , SEC: 141.250 (OLIVE 9) , KILLBOX WEST: 227.500 (YELLOW 1)
 <br>
-**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
-<br>
-**REMARKS:** Part of ALPHA Package. Support SEAD/DEAD effort with offensive fighter sweep to neutralize any A-A threats to the package. 
-Secondary mission is to establish CAP overhead KHASAB in order to protect CAS operations.
+**REMARKS:** AR in killbox West and provide ilumination for REBEL 9
 <br>
 
 
-### JEDI
-**MISSION:** Air Interdiction
+### MAUL 8
+**MISSION:** AR
 <br>
-**CONTROLLER:** MAGIC 
+**CONTROLLER:** A-G Controller  Overlord 235.250 (GREY 6) 
 <br>
-**CONTACT POINT (CP):** TINKERBELL
+**CONTACT POINT (CP):** 20nm from killbox Center at 1850z 
 <br>
-**VUL Gametime:** TOT: 1820G-1840G (1920Z-1940Z)
+**VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  AWACS: A-G 1 (IAW presets)
+**FREQUENCY:**  PRI: 31.900 (BLACK 2) , SEC: 134.250 (PURPLE 3) , KILLBOX CENTER: 235.000 (WHITE 11)
 <br>
-**TARGET:**  JASK Air Defence Sector. Primary target: weapon storage. Secondary target: Maintainence hangar
-<br>
-**REMARKS:** <br>
-Attack is intended to degrade IRANIAN ability to conduct air operations in their SOUTHEASTERN sector, and to set conditions for the arrival of allied forces entering the Strait-of-Hormuz. 
-Primary target is 2 hardened weapon storages.<br>
-Coordinates:<br>
-Weapon Storage 1: N25 39.694 E057 48.532 , 26 ft  <br>
-Weapon Storage 2: N25 39.714 E057 48.573, 26 ft <br>
-Maintanance hangar: N25 39.124 E057 47.201, 26ft <br>
-<br>
-Primary TGT: [Weapon storage](/OPUF-Brief/Images/Bandarejask_weaponstorage.PNG) <br>
-Secondary TGT: [Maintenance Hanger](/OPUF-Brief/Images/Bandarejask_airfield.PNG) <br>
+**REMARKS:** Coordinate with WOOKIE 6 for ilumination in killbox Center
 <br>
 
 
-### EAGLE
-**MISSION:** ARMED RECONISSANCE
+### REBEL 9
+**MISSION:** AR
 <br>
-**CONTROLLER:** MAGIC 
+**CONTROLLER:** A-G Controller  Overlord 235.250 (GREY 6)
 <br>
-**CONTACT POINT (CP):** TINKERBELL
+**CONTACT POINT (CP):** 20nm from killbox West at 1850z
 <br>
-**VUL Gametime:** 1800G-1900G (1900Z-2000Z)
+**VUL Gametime:**  1900Z-2020Z
 <br>
-**FREQUENCY:**  AWACS A-G 1 (IAW presets)
+**FREQUENCY:**  PRI: 48.500 (BLACK 3) , SEC: 127.250 (GOLD 9) , KILLBOX WEST: 227.500 (YELLOW 1)
 <br>
-**TARGET:**  [21st Coastal Artillery Battalion](/OPUF-Brief/Docs/Enemy/21ST_CAB.html)
-<br>
-**REMARKS:** Task is to search in Killbox V6 and locate elements of 21st Coastal Artillery Battalion. Intelligence indicate that part of the BN is deployed in the field and are operations.
-This mission is intended to set conditions for the arrival of allied forces entering the Strait-of-Hormuz ( Carrier Strike Group).
-<br>
+**REMARKS:** Coordinate with JAWA 7 for ilumination in killbox West
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Back
-[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
+[Back to frontpage](https://132nd-vwing.github.io/OPBH-Brief/)
