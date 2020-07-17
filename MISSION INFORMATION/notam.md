@@ -17,8 +17,7 @@ OPBH01/01 <br>
  <br>
  <br>
  OPBH01/04<br>
- A-10C VHF AM presets are bugged from the last update. All frequencies will have to be manually tuned on that radio.<br>
- The other radios work fine. 
+ A-10C VHF AM presets are bugged from the last update. All frequencies will have to be manually tuned on that radio. The other radios work fine. 
  
  
 
