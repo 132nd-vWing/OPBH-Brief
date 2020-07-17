@@ -29,7 +29,7 @@ KILLBOX EAST: 238.000 (PINK 11)<br>
 
 ## MASTER PLAN 
 1. INQUISITOR sweeps area for bandits then sets up CAP<br>
-2. BANTHA destroys SA-6 escorted by JEDI, if BANTHA fails ROUGE will destroy SA-6<br>
+2. BANTHA (escorted by JEDI) destroys SA-6, if BANTHA fails ROUGE will destroy SA-6<br>
 3. ROUGE (escorted by SITH), WOOKIE, JAWA, MAUL, and REBEL all commence when SA-6 is destroyed<br>
 <br>
 <br>
