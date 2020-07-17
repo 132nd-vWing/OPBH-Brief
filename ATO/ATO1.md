@@ -19,12 +19,14 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 * Priority 6: Destroy the Logistics Center at Bandar E Jask
 <br>
 <br>
+
 ## KILLBOX COMS
 KILLBOX WEST: 227.500 (YELLOW 1)<br>
 KILLBOX CENTER: 235.000 (WHITE 11)<br>
 KILLBOX EAST: 238.000 (PINK 11)<br>
 <br>
 <br>
+
 ## TASKING 
 
 ### INQUISITOR 1
