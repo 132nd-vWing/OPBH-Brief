@@ -14,6 +14,12 @@ OPBH01/01 <br>
  OPBH01/03<br>
  ACLS system for F-14B is inop due to the latest update. Autolands are not available. ICLS remains operational. <br>
  All CASE 3 recoveries must be hand flow with ICLS.<br>
+ <br>
+ <br>
+ OPBH01/04<br>
+ A-10C VHF AM presets are bugged from the last update. All frequencies will have to be manually tuned on that radio.<br>
+ The other radios work fine. 
+ 
  
 
 <br>
