@@ -12,7 +12,8 @@ OPBH01/01 <br>
  <br>
  <br>
  OPBH01/03<br>
- ACLS system for F-14B is inop due to the latest update. All F-14s must recover at airfields.
+ ACLS system for F-14B is inop due to the latest update. Autolands are not available. ICLS remains operational. <br>
+ All CASE 3 recoveries must be hand flow with ICLS.<br>
  
 
 <br>
