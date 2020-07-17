@@ -9,7 +9,7 @@ This ATO is supported by the following documents: <br>
 * Weather Report
 * NOTAMs
 
-## Priorites
+## PRIORITIES
 This ATO periods primary focus is to set conditions for the arrivial of allied naval assault from CJTF-101. <br>
 * Priority 1: Destroy or Disable SA-6 Battery
 * Priority 2: Destroy or Disable Silkworm Battery at Bandar E Jask
@@ -24,6 +24,13 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 KILLBOX WEST: 227.500 (YELLOW 1)<br>
 KILLBOX CENTER: 235.000 (WHITE 11)<br>
 KILLBOX EAST: 238.000 (PINK 11)<br>
+<br>
+<br>
+
+## MASTER PLAN 
+1. INQUISITOR sweeps area for bandits then sets up CAP<br>
+2. BANTHA destroys SA-6 escorted by JEDI, if BANTHA fails ROUGE will destroy SA-6<br>
+3. ROUGE (escorted by SITH), WOOKIE, JAWA, MAUL, and REBEL all commence when SA-6 is destroyed<br>
 <br>
 <br>
 
@@ -76,7 +83,7 @@ KILLBOX EAST: 238.000 (PINK 11)<br>
 <br>
 **TARGETS:**  MILITARY HQ, LOGISTICS CENTER
 <br>
-**REMARKS:** Once primary mission complete and if munitions remain, perform AR in killbox East
+**REMARKS:** Commence once SA-6 is destryed, if BANTHA fails to destroy SA-6 PRIMARY mission for ROUGE becomes SA-6 destruction. Once primary mission complete and if munitions remain, perform AR in killbox East
 <br>
 <br>
 
