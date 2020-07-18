@@ -164,7 +164,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **FREQUENCY:**  PRI: 35.750 (CHERRY 4) , SEC: 141.250 (OLIVE 9) , KILLBOX WEST: 126.250 (WHITE 1)
 <br>
-**REMARKS:** AR in killbox West and provide ilumination for REBEL 9
+**REMARKS:** AR in killbox West and provide ilumination for REBEL 9, coordinate with NERF 1 for SEAD CAP
 <br>
 
 
@@ -194,7 +194,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **FREQUENCY:**  PRI: 48.500 (BLACK 3) , SEC: 127.250 (GOLD 9) , KILLBOX WEST: 126.250 (WHITE 1)
 <br>
-**REMARKS:** Coordinate with JAWA 7 for ilumination in killbox West
+**REMARKS:** Coordinate with JAWA 7 for ilumination in killbox West, coordinate with NERF 1 for SEAD CAP
 <br>
 
 
