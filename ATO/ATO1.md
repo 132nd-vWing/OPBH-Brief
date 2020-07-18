@@ -21,9 +21,9 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 <br>
 
 ## KILLBOX COMS
-KILLBOX WEST: 227.500 (YELLOW 1)<br>
-KILLBOX CENTER: 235.000 (WHITE 11)<br>
-KILLBOX EAST: 238.000 (PINK 11)<br>
+KILLBOX WEST: 126.250 (WHITE 1)<br>
+KILLBOX CENTER: 127.000 (PURPLE 2)<br>
+KILLBOX EAST: 132.100 (CHERRY 7)<br>
 <br>
 <br>
 
