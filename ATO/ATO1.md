@@ -68,7 +68,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL:** 1855Z-2015Z
 <br>
-**FREQUENCY:**  PRI: 247.000 (GOLD 1) , SEC: 140.000 (MAROON 11) , MIDS 20-29 , KILLBOX EAST: 238.000 (PINK 11)
+**FREQUENCY:**  PRI: 247.000 (GOLD 1) , SEC: 140.000 (MAROON 11) , MIDS 20-29 , KILLBOX EAST: 132.100 (CHERRY 7)
 <br>
 **TARGET:**  SA-6
 <br>
@@ -88,7 +88,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  PRI: 227.750 (OCHRE 1) , SEC: 137.000 (BROWN 11) , MIDS 30-39 , KILLBOX EAST: 238.000 (PINK 11)
+**FREQUENCY:**  PRI: 227.750 (OCHRE 1) , SEC: 137.000 (BROWN 11) , MIDS 30-39 , KILLBOX EAST: 132.100 (CHERRY 7)
 <br>
 **TARGETS:**  MILITARY HQ, LOGISTICS CENTER
 <br>
@@ -144,7 +144,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  PRI: 31.500 (CHERRY 2) , SEC: 139.750 (AQUA 10) , KILLBOX CENTER: 235.000 (WHITE 11)
+**FREQUENCY:**  PRI: 31.500 (CHERRY 2) , SEC: 139.750 (AQUA 10) , KILLBOX CENTER: 127.000 (PURPLE 2)
 <br>
 **TARGET:** Silkworm Battery 
 <br>
@@ -162,7 +162,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  PRI: 35.750 (CHERRY 4) , SEC: 141.250 (OLIVE 9) , KILLBOX WEST: 227.500 (YELLOW 1)
+**FREQUENCY:**  PRI: 35.750 (CHERRY 4) , SEC: 141.250 (OLIVE 9) , KILLBOX WEST: 126.250 (WHITE 1)
 <br>
 **REMARKS:** AR in killbox West and provide ilumination for REBEL 9
 <br>
@@ -177,7 +177,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:** 1900Z-2020Z
 <br>
-**FREQUENCY:**  PRI: 31.900 (BLACK 2) , SEC: 134.250 (PURPLE 3) , KILLBOX CENTER: 235.000 (WHITE 11)
+**FREQUENCY:**  PRI: 31.900 (BLACK 2) , SEC: 134.250 (PURPLE 3) , KILLBOX CENTER: 127.000 (PURPLE 2)
 <br>
 **REMARKS:** Coordinate with WOOKIE 6 for ilumination in killbox Center
 <br>
@@ -192,9 +192,40 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:**  1900Z-2020Z
 <br>
-**FREQUENCY:**  PRI: 48.500 (BLACK 3) , SEC: 127.250 (GOLD 9) , KILLBOX WEST: 227.500 (YELLOW 1)
+**FREQUENCY:**  PRI: 48.500 (BLACK 3) , SEC: 127.250 (GOLD 9) , KILLBOX WEST: 126.250 (WHITE 1)
 <br>
 **REMARKS:** Coordinate with JAWA 7 for ilumination in killbox West
+<br>
+
+
+
+### NERF 1
+**MISSION:** SEAD CAP
+<br>
+**CONTROLLER:** A-G Controller  Overlord 235.250 (GREY 6)
+<br>
+**PUSH POINT (PP):** TATOOINE at 1850z
+<br>
+**VUL Gametime:**  1855Z-2020Z
+<br>
+**FREQUENCY:**  PRI: 246.000 (LIME 3) , SEC: 135.000 (LEMON 10) , MIDS 10-19 , KILLBOX WEST: 126.250 (WHITE 1)
+<br>
+**REMARKS:** Provide SEAD CAP in KILLBOX WEST, coordinate with JAWA 7 & REBEL 9
+<br>
+
+### CLONE 2
+**MISSION:** TRANSPORT
+<br>
+**CONTROLLER:** A-G Controller  Overlord 235.250 (GREY 6)
+<br>
+**PUSH POINT (PP):** 20nm from killbox West at 1850z
+<br>
+**VUL Gametime:**  Deploy units then exit
+<br>
+**FREQUENCY:**  PRI: 36.300 (BLACK 5) , SEC: 132.250 (BROWN 5) , KILLBOX WEST: 126.250 (WHITE 1)
+<br>
+**REMARKS:** Coordinate flight with REBEL 9
+
 
 <br>
 <br>
