@@ -224,7 +224,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **FREQUENCY:**  PRI: 36.300 (BLACK 5) , SEC: 132.250 (BROWN 5) , KILLBOX WEST: 126.250 (WHITE 1)
 <br>
-**REMARKS:** Coordinate flight with REBEL 9
+**REMARKS:** Coordinate flight with REBEL 9, deploy special forces west of KILLBOX WEST
 
 
 <br>
