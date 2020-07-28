@@ -62,4 +62,4 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 <br>
-![132nd Logo](/EXTRA/132ndLogosmall.png)
+![132nd Logo](/EXTRA/132ndLogosmall.png) ![OPBH Logo](/IMAGES/OPBHsmall.png) 
