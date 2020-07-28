@@ -17,7 +17,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Admin
-[Admin info](/OPBH-Brief/ADMIN/Admin.html) |
+[Admin info](/OPBH-Brief/ADMIN/Admin.html) | 
 
 
 
@@ -25,7 +25,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Situation
-[Situation](/OPBH-Brief/SITUATION/Situation.html) |
+[Situation](/OPBH-Brief/SITUATION/Situation.html) | [Intelligence Briefing](/OPBH-Brief/SITUATION/Intel.html)
 
 <br>
 <br>
