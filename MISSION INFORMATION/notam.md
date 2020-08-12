@@ -21,9 +21,9 @@ OPBH01/01 <br>
  <br>
  <br>
  OPBH01/05<br>
- Tanker callsigns are bugged in game. Both SHELL 1-1 and SHELL 2-1 read back as SHELL 1-1. TEXACO tankers behave the same.<br> 
- Also all tankers display TEX or SHL depending on callsign due to another bug. To mitigate use the A-A TACAN to identify the tanker and<br>
- fly the altitude listed in the briefing. 
+Thanker schedule:<br>
+SHELL & TEXACO 1-1 & 2-1: 0700z - 0800z<br>
+SHELL & TEXACO 3-1 & 4-1: 0830z - Unlimited  
  
 
  
