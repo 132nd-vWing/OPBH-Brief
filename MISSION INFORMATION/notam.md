@@ -35,7 +35,7 @@ Each tanker is assigned to a squadron<br>
 <br>
 <br>
 OPBH 02/07<br>
-Carrier Schedule: 
+Carrier Schedule:<br> 
 Launch: 0700z - 0800z<br>
 Recovery: 0830z - 1100z<br>
  
