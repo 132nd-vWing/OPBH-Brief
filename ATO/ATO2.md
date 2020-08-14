@@ -110,7 +110,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:**  1900Z-2000Z
 <br>
-**FREQUENCY:**  PRI: 48.500 (BLACK 3) , SEC: 127.250 (GOLD 9) , KILLBOX CURLY: 127.000 (PURPLE 2)
+**FREQUENCY:**  PRI: 48.500 (BLACK 3) , SEC: 127.250 (GOLD 9) 
 <br>
 **REMARKS:** Conduct ARMED RECONAISSANCE in support of Killbox CURLY and in the area of  Jask. Support MSR's leaving KB LARRY or MOE. Part of package CHARLIE.
 <br>
@@ -125,7 +125,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:** 1900Z-2000Z
 <br>
-**FREQUENCY:**  PRI: 31.500 (CHERRY 2) , SEC: 139.750 (AQUA 10) , KILLBOX LARRY: 126.250 (WHITE 1)
+**FREQUENCY:**  PRI: 31.500 (CHERRY 2) , SEC: 139.750 (AQUA 10)
 <br>
 **REMARKS:** Conduct ARMED RECONAISSANCE in support of Killbox LARRY. Should enemy forces breach the Killbox, fall back in support of the FOB. Part of package X-RAY.
 <br>
@@ -140,7 +140,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:** 1900Z-2000Z
 <br>
-**FREQUENCY:**  PRI: 35.750 (CHERRY 4) , SEC: 141.250 (OLIVE 9) , KILLBOX LARRY: 126.250 (WHITE 1)
+**FREQUENCY:**  PRI: 35.750 (CHERRY 4) , SEC: 141.250 (OLIVE 9)
 <br>
 **REMARKS:** Conduct ARMED RECONAISSANCE in support of Killbox MOE. Should enemy forces breach the Killbox, fall back in support of the FOB. Part of package ZULU.
 <br>
@@ -155,7 +155,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL:** 1855Z-2000Z
 <br>
-**FREQUENCY:**  PRI: 247.000 (GOLD 1) , SEC: 140.000 (MAROON 11) , MIDS 70-79 , KILLBOX MOE: 132.100 (CHERRY 7)
+**FREQUENCY:**  PRI: 247.000 (GOLD 1) , SEC: 140.000 (MAROON 11) , MIDS 70-79 
 <br>
 **REMARKS:** Conduct ARMED RECONAISSANCE in support of Killbox LARRY. Should enemy forces breach the Killbox, fall back in support of the FOB. Part of package X-RAY.
 <br>
@@ -172,7 +172,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 <br>
 **VUL Gametime:** 1855Z-2000Z
 <br>
-**FREQUENCY:**  PRI: 227.750 (OCHRE 1) , SEC: 137.000 (BROWN 11) , MIDS 80-89 , KILLBOX EAST: 132.100 (CHERRY 7)
+**FREQUENCY:**  PRI: 227.750 (OCHRE 1) , SEC: 137.000 (BROWN 11) , MIDS 80-89 
 <br>
 **REMARKS:** Conduct ARMED RECONAISSANCE in support of Killbox MOE. Should enemy forces breach the Killbox, fall back in support of the FOB. Part of package ZULU.
 <br>
