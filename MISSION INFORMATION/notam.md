@@ -32,7 +32,12 @@ Each tanker is assigned to a squadron<br>
 108th: SHELL 2-1 & 4-1<br>
 388th: TEXACO 2-1 & 4-1<br>
 617th: TEXACO 1-1 & 3-1<br>
-
+<br>
+<br>
+OPBH 02/07<br>
+Carrier Schedule: 
+Launch: 0700z - 0800z<br>
+Recovery: 0830z - 1100z<br>
  
 
 <br>
