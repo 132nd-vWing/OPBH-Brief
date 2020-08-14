@@ -52,7 +52,7 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 ## TASKING 
 
 ### INQUISITOR 1
-**MISSION:**  CAP   
+**MISSION:** CAP   
 <br>
 **CONTROLLER:** A-A Controller Magic 248.000 (GRAY 2) 
 <br>
