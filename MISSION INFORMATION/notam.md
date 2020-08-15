@@ -22,8 +22,8 @@ OPBH02/01 <br>
  <br>
  OPBH02/05<br>
 Thanker schedule:<br>
-SHELL & TEXACO 1-1 & 2-1: 0700z - 0800z<br>
-SHELL & TEXACO 3-1 & 4-1: 0830z - Unlimited  
+SHELL & TEXACO 1-1 & 2-1: 0700 - 0800 local time<br>
+SHELL & TEXACO 3-1 & 4-1: 0830 - Unlimited  
  <br>
  <br>
  OPBH02/06<br>
@@ -36,8 +36,8 @@ Each tanker is assigned to a squadron<br>
 <br>
 OPBH 02/07<br>
 Carrier Schedule:<br> 
-Launch: 0700z - 0800z<br>
-Recovery: 0830z - 1100z<br>
+Launch: 0700 - 0800 local time<br>
+Recovery: 0830 - 1100 local time<br>
  
 
 <br>
