@@ -73,6 +73,10 @@ rules of engagement.
 - 2 or more Friendly indicators
 <br>
 
+#### NEUTRAL:
+- Squawking code 60XX AND adhering to airway N571
+<br>
+
 #### BOGEY:
 - Lack of friendly indications and lack of enemy indications
 <br>
