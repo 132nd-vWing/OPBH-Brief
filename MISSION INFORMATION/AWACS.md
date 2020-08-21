@@ -123,7 +123,7 @@ rules of engagement.
 ### Tankers 
 
 Name | Type | TACAN | TACAN ID | Frequency | Code | Altitude | Squawk Code |
----- | ---- | ----- | -------- | --------- | ---- | -------- | ----------- | 
+---------- | ---------- | ----- | ----------- | --------- | ---- | -------- | ----------- | 
 Shell 1-1  | KC-135MPRS | 31X | SH1 | 274.500 | LIME 11 | 20,000 ft | 5003 | 
 Shell 2-1  | KC-135MPRS | 32X | SH2 | 270.750 | MAROON 7 | 24,000 ft | 5005 |
 Shell 3-1  | KC-135MPRS | 33X | SH3 | 232.000 | BROWN 6 | 20,000 ft | 5009 | 
