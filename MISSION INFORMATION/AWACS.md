@@ -121,8 +121,9 @@ rules of engagement.
 ## TANKER, AWACS, & CIVIL AIRCRAFT  
 
 ### Tankers 
+
 Name | Type | TACAN | TACAN ID | Frequency | Code | Altitude | Squawk Code |
----- | ---- | ----- | -------- | --------- | ---- | ------------ | 
+---- | ---- | ----- | -------- | --------- | ---- | -------- | ----------- | 
 Shell 1-1  | KC-135MPRS | 31X | SH1 | 274.500 | LIME 11 | 20,000 ft | 5003 | 
 Shell 2-1  | KC-135MPRS | 32X | SH2 | 270.750 | MAROON 7 | 24,000 ft | 5005 |
 Shell 3-1  | KC-135MPRS | 33X | SH3 | 232.000 | BROWN 6 | 20,000 ft | 5009 | 
@@ -134,12 +135,14 @@ TEXACO 4-1  | KC-135 | 14X | TX4 | 131.000 | PURPLE 6 | 24,000 ft | 5007 |
 ARCO 1 -1 | S-3B | 20X | ARC | 241.750 | CORAL 6 | 6,000 ft | 5001 |                   
 <br>
 ### AWACS 
+
 Name | Type | Altitude | Squawk Code |
 ---- | ---- | -------- | ----------- |
 FOCUS 1-1 | E-3A | 34,000 ft | 5002 | 
 MAGIC 1-1 | E-2D | 24,000 ft | 5001 |
 <br>
 ### Civil Aircraft 
+
 - All civil aircraft will have squawk codes 60XX.
 - All civil aircraft will only follow airway N571. 
 - No civil aircraft will be allowed to operate from the UAE to Iran.
