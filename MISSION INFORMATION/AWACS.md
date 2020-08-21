@@ -4,7 +4,7 @@ This is the standing SPINS for OP IRON SHIELD  (ATRM)
 
 ## Air-to-Air INSTRUCTIONS
 
-###Definitions:
+### Definitions:
 
 #### Friendly 
 A contact that is part of own coalition.
@@ -90,6 +90,7 @@ rules of engagement.
 <br>
 <br>
 <br>
+
 ### Weapons status
 #### Weapons free:
 - Cleared to engage on targets not identified as friendly or bogey ( Bandit and Hostile)
