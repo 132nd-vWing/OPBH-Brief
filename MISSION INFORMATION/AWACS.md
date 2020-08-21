@@ -133,7 +133,7 @@ TEXACO 1-1  | KC-135 | 11X | TX1 | 143.000 | CORAL 8 | 15,000 ft | 5004 |
 TEXACO 2-1  | KC-135 | 12X | TX2 | 120.500 | WHITE 9 | 24,000 ft | 5006 | 
 TEXACO 3-1  | KC-135 | 13X | TX3 | 122.100 | GREY 4 | 15,000 ft | 5008 |
 TEXACO 4-1  | KC-135 | 14X | TX4 | 131.000 | PURPLE 6 | 24,000 ft | 5007 |   
-ARCO 1 -1 | S-3B | 20X | ARC | 241.750 | CORAL 6 | 6,000 ft | 5001 |                   
+ARCO 1 -1 | S-3B | 20X | ARC | 241.750 | CORAL 6 | 6,000 ft | 5011 |                   
 
 
 
