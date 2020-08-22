@@ -201,7 +201,19 @@ If required to cross FL 250 contact MAGIC( >FL250) or Overlord (<FL250)<br>
 **REMARKS:** Establish 'BARCAP EAST' in support of resources conducting AR in Killbox MOE. Part of package BRAVO.
 <br>
 
-
+### CLONE 1
+**MISSION:** SLING LOAD
+<br>
+**CONTROLLER:** A-G Controller  Overlord 235.250 (GREY 6)
+<br>
+**PUSH POINT (PP):** -
+<br>
+**VUL Gametime:**  1830z-2030z
+<br>
+**FREQUENCY:**  PRI: 36.300 (BLACK 5) , SEC: 132.250 (BROWN 5) 
+<br>
+**REMARKS:** Deploy HAWK SAM battery near Bandar E Jask, then continue to support by sling loading MBTs and re-arming HAWK. 
+Once the SAM battery is operational report to Magic.
 <br>
 <br>
 <br>
