@@ -33,7 +33,7 @@ KILLBOX MOE: 132.100 (CHERRY 7)<br>
 
 ## MASTER PLAN 
 PKG ALPHA - Inquisitor/Sith - BARCAP West<br>
-    ALPHA Package Commander - Inquisitor 1-1 (Neck)<br>
+    ALPHA Package Commander - Inquisitor 1-1 (Ashilta)<br>
 	<br>
 PKG BRAVO Jedi/Maul - BARCAP East<br>
     BRAVO Package Commander - Jedi 2-1 (Entropy)<br>
