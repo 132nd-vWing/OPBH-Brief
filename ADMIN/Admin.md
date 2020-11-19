@@ -17,6 +17,7 @@ Everyone attending this mission need to use OvGME in order to install the necess
 <br>
 The required mods for this campaign are:<br>
 1: Civil Aircraft Mod<br>
+2: Desert Vehicle Skins<br>
 <br>
 Please refer to the 132nd Skin and Mod Install QuickstartGuide: <br>
 [132nd Skin and Mod Install](https://www.dropbox.com/s/jtftoqwto3tkbbp/DCS%202.5%20Mod%20Install_QuickCard.pdf?raw=1)
