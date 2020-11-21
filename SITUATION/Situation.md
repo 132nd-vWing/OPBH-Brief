@@ -36,6 +36,8 @@ Oman have strong ties to Iran and have denied the use of Omanian airspace or ter
 Oman have also increased tension with UAE about a disputed area between Khasab and Omani mainland.  
 <br> 
 <br>
+Post Mission 2 update: The ties between Iran and China are increasing. Iran has been buying more technology from china. New aircraft types and anti air assests.
+It is unknown if the untits have been deplpoyed into the field. 
 <br>
 <br>
  
