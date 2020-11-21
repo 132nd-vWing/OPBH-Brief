@@ -14,6 +14,7 @@ The following presets are programmed into the aircraft:
 
 ### [Ka-50 Presets](/OPBH-Brief/FILES/Ka-50 Presets.pdf)
 
+### [Mi-8 Presets](/OPBH-Brief/FILES/Mi8 Presets.pdf)
 
 
 <br>
