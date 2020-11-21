@@ -24,6 +24,9 @@ but the tipping point to war had already been reached.
 CJTF-101 has been created with the mission of dismantling the Iranian military. 
 <br>
 <br>
+Post Mission 2 update: The ties between Iran and China are increasing. Iran has been buying more technology from china. New aircraft types and anti air assests.
+It is unknown if the untits have been deplpoyed into the field.
+<br>
 <br>
 
 ## Regional situation
@@ -35,9 +38,7 @@ UAE have allowed CJTF-101 to overfly its airspace in designated corridors and us
 Oman have strong ties to Iran and have denied the use of Omanian airspace or territorial waters for any operations. 
 Oman have also increased tension with UAE about a disputed area between Khasab and Omani mainland.  
 <br> 
-<br>
-Post Mission 2 update: The ties between Iran and China are increasing. Iran has been buying more technology from china. New aircraft types and anti air assests.
-It is unknown if the untits have been deplpoyed into the field. 
+<br> 
 <br>
 <br>
  
