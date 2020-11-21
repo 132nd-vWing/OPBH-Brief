@@ -38,7 +38,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## Mission Information 
-[Briefing](/MISSION INFORMATION/Briefing.md)|[Weather Report](/MISSION INFORMATION/WX.md)| [Presets](/MISSION INFORMATION/Presets.md)  | [CombatFlite Files](/MISSION INFORMATION/CombatFlite Files.md)|[NOTAMs](/MISSION INFORMATION/notam.md) |[Navigation](/MISSION INFORMATION/NAV.md) |[AWACS SPINS](/MISSION INFORMATION/AWACS.md) |
+[Briefing](/MISSION INFORMATION/Briefing.md)|[Weather Report & Mission Time](/MISSION INFORMATION/WX.md)| [Presets](/MISSION INFORMATION/Presets.md)  | [CombatFlite Files](/MISSION INFORMATION/CombatFlite Files.md)|[NOTAMs](/MISSION INFORMATION/notam.md) |[Navigation](/MISSION INFORMATION/NAV.md) |[AWACS SPINS](/MISSION INFORMATION/AWACS.md) |
 
 
 
