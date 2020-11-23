@@ -14,4 +14,5 @@ BECMG 0305/0307 27013KT<br>
 PROB30 TEMPO 0308/0313 28017G27KT<br>
 
 ### Other Weather Reports  
+#### Weather Satellite
 ![WXSatellite](/OPBH-Brief/IMAGES/DAY3WXSAT.png)
