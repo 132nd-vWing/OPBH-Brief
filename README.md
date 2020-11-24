@@ -46,7 +46,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 ## AIR TASKING ORDER
-[ATO MISSION 1](/ATO/ATO1.md)|[ATO MISSION 2](/ATO/ATO2.md)|
+Please refer to the 132nd event page for taskings.
 
 
 
