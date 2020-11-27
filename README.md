@@ -45,8 +45,16 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 <br>
 <br>
-## AIR TASKING ORDER
+## Air Tasking Order
 Please refer to the 132nd event page for taskings.
+
+
+<br>
+<br>
+<br>
+## Update Log
+v 1.0 - released <br>
+v 1.1 - added min and max altitude to killbox HOTH in CF file <br>
 
 
 
