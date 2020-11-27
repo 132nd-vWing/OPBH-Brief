@@ -54,7 +54,8 @@ Please refer to the 132nd event page for taskings.
 <br>
 ## Update Log
 v 1.0 - released <br>
-v 1.1 - added min and max altitude to killbox HOTH in CF file <br>
+v 1.01 - added min and max altitude to killbox HOTH in CF file <br>
+v 1.02 - added FARP Poodoo to CF for Ka-50<br>
 
 
 
