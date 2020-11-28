@@ -56,7 +56,10 @@ Please refer to the 132nd event page for taskings.
 v 1.0 - released <br>
 v 1.01 - added min and max altitude to killbox HOTH in CF file <br>
 v 1.02 - added FARP Poodoo to CF for Ka-50<br>
-V 1.03 - 132nd event signup air tasking orders complete<br>
+v 1.03 - 132nd event signup air tasking orders complete<br>
+v 1.04 - reworded tanker notam to be more clear<br>
+v 1.05 - corrected package bravo leader on ATO<br>
+
 
 
 

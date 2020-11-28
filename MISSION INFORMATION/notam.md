@@ -14,7 +14,8 @@ OPBH03/02 <br>
  <br>
 OPBH03/03<br>
 Thanker schedule:<br>
-ONLY SHELL & TEXACO 1-1 & 2-1 will be available for this mission. 
+SHELL 1-1 & 2-1 available<br>
+TEXACO 1-1 & 2-1 available<br>
  <br>
  <br>
 OPBH03/04<br>
