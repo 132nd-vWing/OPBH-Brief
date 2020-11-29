@@ -26,6 +26,10 @@ F-16C: TEXACO 2-1 <br>
 A-10C: TEXACO 1-1 <br> 
 <br>
 <br>
+OPBH03/05<br>
+There is a single hornet designated as GAME MASTER HORNET, please do NOT select this unit when you spawn in.<br>
+<br>
+<br>
 <br>
 <br>
 <br>
