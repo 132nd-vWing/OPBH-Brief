@@ -55,6 +55,7 @@ The following documents provides necessary information <br>
 Thanks for the great contributions from the DCS community, and to highlight a few of the most important ones for the 132nd:
 - MIST (Speed&Grimes) <br>
 - FlightControl for MOOSE: https://flightcontrol-master.github.io/MOOSE_DOCS/ <br>
+- D-ATIS for DCS: https://github.com/rkusa/DATIS <br>
 - CTLD <br>
 - DArt for LotATC: https://www.lotatc.com/ <br>
 - Upaut for various Mods: https://forums.eagle.ru/showthread.php?t=124251 <br>

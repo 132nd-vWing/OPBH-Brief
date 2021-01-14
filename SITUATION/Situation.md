@@ -24,10 +24,6 @@ but the tipping point to war had already been reached.
 CJTF-101 has been created with the mission of dismantling the Iranian military. 
 <br>
 <br>
-Post Mission 2 update: The ties between Iran and China are increasing. Iran has been buying more technology from china. New aircraft types and anti air assests.
-It is unknown if the untits have been deplpoyed into the field.
-<br>
-<br>
 
 ## Regional situation
 Iran and Russia have strong ties. Russia may supply Iran with ground units and aircraft to increase tensions and coalition losses. 
