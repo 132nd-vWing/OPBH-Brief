@@ -2,17 +2,15 @@
 ## Time 
 
 CJTF is located UTC+4<br>
-OPBH Day 3<br>
-The server will start at 1800z and the time ingame will be 0000L  
+OPBH Day 4<br>
+The server will start at 1800z and the time ingame will be 100L  
 
 ## Weather Report
 
-### TAF 
+### METAR 
 
-CJTF101 021700Z 0218/0400 30007KT 8000 NSC<br>
-BECMG 0305/0307 27013KT<br>
-PROB30 TEMPO 0308/0313 28017G27KT<br>
+CJTF101 041000Z 31506KT 9999 NSC 29/5 A29.82 <br>
 
 ### Other Weather Reports  
 #### Weather Satellite
-![WXSatellite](/OPBH-Brief/IMAGES/DAY3WXSAT.png)
+![WXSatellite](/OPBH-Brief/IMAGES/DAY4WXSAT.png)
