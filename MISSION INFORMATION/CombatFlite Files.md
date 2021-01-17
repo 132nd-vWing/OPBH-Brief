@@ -10,6 +10,8 @@ Please see blelow for :
 [OPBH Day 2 Combat Flite](/OPBH-Brief/FILES/OPBH Day 2.cf)
 <br>
 [OPBH Day 3 Combat Flite](/OPBH-Brief/FILES/OPBH Day 3.cf)
+<br>
+[OPBH Day 4 Combat Flite](/OPBH-Brief/FILES/OPBH Day 4.cf)
 
 <br>
 <br>
