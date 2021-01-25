@@ -3,7 +3,8 @@
 
 CJTF is located UTC+4<br>
 OPBH Day 4<br>
-The server will start at 1800z and the time ingame will be 100L  
+The server will start at 1800z and the time ingame will be 1400L <br>
+z = Zulu Time, L = Local Time<br>
 
 ## Weather Report
 
