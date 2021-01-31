@@ -39,8 +39,13 @@ OPBH04/07<br>
 The carrier ATIS is inop please use Airboss for current carrier weather.<br> 
 <br>
 <br>
+OPBH04/08<br>
+The airbase ATIS is inop. Please check the weather page for latest weather.<br> 
 <br>
 <br>
+<br>
+<br>
+
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPBH-Brief/)

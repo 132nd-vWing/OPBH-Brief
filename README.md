@@ -56,7 +56,7 @@ Please refer to the 132nd event page for taskings.
 v 4.0 - released <br>
 v 4.1 - Added Taskings to 132nd event page.<br>
 v 4.2 - Updated Ras Al Khaimah TWR frequency to 121.700 and updated all presets.<br>
-
+v 4.3 - ATIS is not working at airfields NOTAM added.<br>
 
 
 
